@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Gamerra (GMR)</title>
+  <style>
+    body { font-family: Arial, sans-serif; background: #111; color: #eee; margin: 0; padding: 0; text-align: center; }
+    .container { max-width: 800px; margin: auto; padding: 20px; }
+    h1 { font-size: 2.5rem; color: #ff4f81; }
+    .btn { background: #ff4f81; color: #fff; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-size: 1.2rem; }
+    .btn:hover { background: #e63973; }
+    .social a { margin: 0 10px; color: #eee; text-decoration: none; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>🚀 Gamerra (GMR)</h1>
+    <p>Your gaming-meme meme coin on BNB Smart Chain.</p>
+    <a class="btn" href="https://pancakeswap.finance/swap?outputCurrency=0x31e08fEF76e80A5C135285Fb23235a01E1134A87" target="_blank">Buy Now on PancakeSwap</a>
+    <h2>Tokenomics</h2>
+    <ul style="text-align:left; display:inline-block; margin:20px 0;">
+      <li><strong>Total Supply:</strong> 329,280,530 GMR</li>
+      <li><strong>Burned:</strong> 1 GMR (so far)</li>
+      <li><strong>Contract:</strong> <a href="https://bscscan.com/token/0x31e08fEF76e80A5C135285Fb23235a01E1134A87" style="color:#ff4f81;">View on BscScan</a></li>
+    </ul>
+    <h2>Whitepaper</h2>
+    <p><a href="https://raw.githubusercontent.com/yourusername/gamerra-coin/main/Gamerra_Whitepaper.pdf" target="_blank" style="color:#ff4f81;">Download PDF</a></p>
+    <h2>Join Us</h2>
+    <div class="social">
+      <a href="https://t.me/gamerracoin" target="_blank">Telegram</a> •
+      <a href="https://twitter.com/gamerracoin" target="_blank">Twitter</a>
+    </div>
+  </div>
+</body>
+</html>
